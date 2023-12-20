@@ -1,0 +1,13 @@
+.myMarker {
+  color: #eaa900 !important;
+  background-image: url('/public/Vector.png');
+  background-repeat: repeat-x;
+  background-position-x: center;
+  background-position-y: 1em;
+}
+
+.myGlyphMarginClass {
+  background-image: url('/public/warning.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
